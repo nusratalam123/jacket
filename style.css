@@ -1,0 +1,92 @@
+#logo{
+    height: 40px;
+    margin-left: 80px;
+}
+.navbar{
+    background-color: #fceae8;
+}
+.nav-link{
+    color: black;
+    
+}
+.text-area{
+    text-align: left;
+    margin-top: 150px;
+    padding: 0px 6%;
+}
+
+.section4-right img{
+    width: 50%;
+}
+.section4-left img{
+   width: 40px;
+   
+}
+.first-section{
+  display: flex;
+}
+.second-section{
+    display: flex;
+}
+.third-section{
+    display: flex;
+}
+.subscribe-part{
+    display: flex;
+}
+.card-item{
+    border: 0;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+
+
+.icon-bar {
+    position: fixed;
+    top: 60%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 10px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  .facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+ 
